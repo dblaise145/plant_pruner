@@ -12,6 +12,7 @@ import java.time.format.DateTimeParseException;
 import java.util.ArrayList;
 
 public class PlantsGUI {
+    // GUI Code
     private JPanel panel;
     private static JTextArea infoArea;
     private static ArrayList<Integer> currentPanelIndex;
